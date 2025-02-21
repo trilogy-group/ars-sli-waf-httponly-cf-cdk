@@ -22,5 +22,22 @@
   "dependencies": {
     "aws-cdk-lib": "2.178.1",
     "constructs": "^10.0.0"
-  }
+  },
+  "description": "This is a blank project for CDK development with TypeScript.",
+  "main": "jest.config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinash-arora/ars-sli-waf-httponly-cf-cdk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinash-arora/ars-sli-waf-httponly-cf-cdk/issues"
+  },
+  "homepage": "https://github.com/avinash-arora/ars-sli-waf-httponly-cf-cdk#readme"
 }
